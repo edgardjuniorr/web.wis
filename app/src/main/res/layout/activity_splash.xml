@@ -32,7 +32,7 @@
         android:id="@+id/text_version"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="EdToms - version 2.0"
+        android:text="EdToms - version 2.1"
         android:fontFamily="@font/nunito_sans"
         android:textSize="14sp"
         android:layout_marginBottom="16dp"
